@@ -1,0 +1,22 @@
+# ----------------------------------------
+# Ignora arquivos gerados pelo sistema
+# ----------------------------------------
+.DS_Store
+Thumbs.db
+~*
+
+# ----------------------------------------
+# Arquivos gerados pelo container mysql
+# ----------------------------------------
+data/mysql/*
+!data/mysql/.gitkeep
+
+# ----------------------------------------
+# Arquivos gerados pelo container wordpress
+# ----------------------------------------
+src/plugins/*
+!src/plugins/.gitkeep
+src/themes/*
+!src/themes/.gitkeep
+src/uploads/*
+!src/uploads/.gitkeep
