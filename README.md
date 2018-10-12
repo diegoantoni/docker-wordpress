@@ -10,7 +10,7 @@ Ambiente Docker para desenvolvimento de Temas e Plugins Wordpress. Utilizando PH
 
 2. [Clonar Projeto](#clonar-projeto)
 
-    Baixe o código deste repositório no GitHun. 
+    Baixe o código deste repositório no GitHub. 
 
 3. [Rodar Projeto](#rodar-projeto)
 
