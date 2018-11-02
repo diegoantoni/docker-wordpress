@@ -108,7 +108,7 @@ ___
 
 2. Acesse no seu navegador:
 
-    * [http://localhost:8000](http://localhost:8000/)
+    * [http://localhost](http://localhost/)
     * [http://localhost:8080](http://localhost:8080/) PHPMyAdmin (servidor: mysql, usuário: wordpress, senha: wordpress)
 
 4. Parar e limpar serviços:
