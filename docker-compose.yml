@@ -6,7 +6,7 @@ services:
             context: ./etc/wordpress
             dockerfile: Dockerfile
         ports:
-            - "80:80"
+            - "8585:8585"
         restart: always
         depends_on:
             - mysql
@@ -39,7 +39,7 @@ services:
             context: ./etc/phpmyadmin
             dockerfile: Dockerfile
         ports:
-            - "8080:80"
+            - "8686:80"
         restart: always
         depends_on:
             - mysql
